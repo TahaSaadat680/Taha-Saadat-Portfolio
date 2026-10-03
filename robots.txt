@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taha-saadat.site/sitemap.xml
